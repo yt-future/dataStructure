@@ -21,3 +21,10 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+/00_Test/src/test/
+/00_Test/target/
+/01_Link/target/
+/01_Link/src/test/
+/02_Stack/target/
+/03_Queue/target/
+/11_Sort/target/
